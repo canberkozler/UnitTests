@@ -1,3 +1,4 @@
 gtest/build/
 catch2/build/
-BosstTest/build/
+BoostTest/build/
+doctest/build/
